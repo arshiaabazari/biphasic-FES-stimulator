@@ -5,7 +5,7 @@
 [![Hardware](https://img.shields.io/badge/Hardware-80V%20H--Bridge-orange.svg)]()
 [![Standard](https://img.shields.io/badge/Compliance-IEC%2060601--2--10-red.svg)]()
 
-> A medical-grade hardware driver and bare-metal firmware implementation of a high-voltage biphasic stimulator designed for upper motor neuron rehabilitation (foot-drop correction). Developed as the core hardware stage of the **ParaWalk** neuro-prosthetic initiative during my engineering internship at Sharif University of Technology.
+> A medical-grade hardware driver and bare-metal firmware implementation of a high-voltage biphasic stimulator designed for upper motor neuron rehabilitation (foot-drop correction). Developed as the core hardware stage of the **ParaWalk** neuro-prosthetic initiative during my R&D engineering internship at **DigiMind** (affiliated with my B.Sc. program at **Sharif University of Technology**).
 
 ---
 
